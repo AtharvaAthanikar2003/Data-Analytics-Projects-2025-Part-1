@@ -1,5 +1,6 @@
 Hey Everyone, below is a list of Data Analytics projects that I've created and documented here. Feel free to take a look on it !
 
+#
 # Blinkit Sales Revenue Analysis
 **Description**:  
 Blinkit required a reliable system to accurately forecast sales revenue and assess the various internal and external factors impacting its performance, including market trends, customer behavior, and seasonal fluctuations. Analyzed historical sales data using Excel and Power BI, building forecasting models to predict revenue trends and integrating sales data with market factors to derive actionable insights.
@@ -10,7 +11,17 @@ Blinkit required a reliable system to accurately forecast sales revenue and asse
 - Enhanced marketing and product strategies by identifying key factors driving sales growth.
 
 #
-# Credit-Card-Transactions-Analysis-for-Consumer-Behavior
+# Credit Card Transactions Analysis for Consumer Behavior
+**Description**:  
+The company needed to better understand consumer spending patterns and behaviors from transaction data to drive targeted marketing. Analyzed credit card transaction data using Power BI, AI, and Excel to identify consumer behavior trends, focusing on high-value customers and seasonal spending patterns.
+
+**Key Achievements**:
+- Developed a dynamic dashboard to visualize customer behaviors, sales trends, and demographics, offering a clearer view of business performance.
+- Provided insights into revenue performance by category, age group, and subscription status, enhancing decision-making and business strategy.
+- Identified profitable customer segments and sales patterns, utilizing external factors to improve marketing and product development strategies.
+
+#
+# Customer Shopping Behavior Analysis using SQL, Python and Power BI
 **Description**:  
 The company needed to better understand consumer spending patterns and behaviors from transaction data to drive targeted marketing. Analyzed credit card transaction data using Power BI, AI, and Excel to identify consumer behavior trends, focusing on high-value customers and seasonal spending patterns.
 
@@ -20,8 +31,8 @@ The company needed to better understand consumer spending patterns and behaviors
 - Optimized customer engagement and marketing tactics to drive long-term loyalty and growth.
 
 #
-# Ecommerce-Sales-Dashboard
-**Description**:
+# Ecommerce Sales Dashboard
+**Description**:  
 Analyzed e-commerce sales data to assess key performance indicators (KPIs) such as amount, profit, quantity, and average order value (AOV). Created visualizations using Power BI to identify trends, seasonality, and product performance across different categories. Integrated predictive analytics to forecast future sales and optimize marketing efforts for better customer engagement and revenue growth.
 
 **Key Achievements**:
@@ -30,9 +41,9 @@ Analyzed e-commerce sales data to assess key performance indicators (KPIs) such 
 - Boosted Average Order Value (AOV) and increased conversion rates through targeted marketing insights.
 
 #
-# Electric-Vehicle-Data-Analytics-for-Performance-and-Market-Trends
+# Electric Vehicle Data Analytics for Performance and Market Trends
 **Description**:  
-There was limited data-driven insight into electric vehicle performance and market trends, hindering strategic decisions for manufacturers. Collected and analyzed EV data using Power BI and Excel to assess vehicle performance, user behavior, and market demand trends. Integrated predictive analytics for future performance forecasting. 
+There was limited data-driven insight into electric vehicle performance and market trends, hindering strategic decisions for manufacturers. Collected and analyzed EV data using Power BI and Excel to assess vehicle performance, user behavior, and market demand trends. Integrated predictive analytics for future performance forecasting.  
 - Download the dataset provided in repository or can take from the given link (recommended in csv format for easy use) - https://catalog.data.gov/dataset/electric-vehicle-population-data
 - Upload the heavy files using this YT reference video :- https://www.youtube.com/watch?v=WIdt-6-x150
 
@@ -42,8 +53,8 @@ There was limited data-driven insight into electric vehicle performance and mark
 - Enhanced sales performance and marketing strategies by analyzing key KPIs and optimizing based on insights.
 
 #
-# HR-Data-Analysis
-**Description**:
+# HR Data Analysis
+**Description**:  
 This project demonstrates the application of data analytics in Human Resources (HR) to optimize employee performance, retention, and job satisfaction. Using Power BI and Excel, we analyze HR data such as employee demographics, attrition, attrition rate, salary and years at company. The insights gained from this analysis help HR teams make informed decisions for improving overall organizational effectiveness.
 
 **Key Achievements**:
@@ -52,7 +63,7 @@ This project demonstrates the application of data analytics in Human Resources (
 - Enabled HR decision-making with dynamic reports that provide actionable insights into employee satisfaction and turnover.
 
 #
-# Marketing-Data-Insights
+# Marketing Data Insights
 **Description**:  
 Analyzed marketing campaign performance to identify areas for optimizing spend, impressions, and clicks for improved ROI. Utilized Power BI and Excel to track and analyze key performance indicators (KPIs) including spend, impressions, total clicks, CPC, and CTR, creating reports to generate actionable insights for optimizing marketing strategies.
 
@@ -91,7 +102,7 @@ Created a comprehensive dashboard to analyze Meta (Facebook and Instagram) adver
 
 #
 # Sales Performance Dashboard Development and Analysis
-**Description**:
+**Description**:  
 The Sales Overview Dashboard provides a comprehensive analysis of Sales data across the Central, East, South, and West regions of the USA. The dashboard is designed to analyze key performance indicators (KPIs) including Sales, Profit, and Quantity. By calculating and comparing metrics for the current year (CY), previous year (PY), and year-over-year (YoY), the dashboard offers insights into performance trends and helps in making data-driven decisions.
 
 **Key Achievements**:
@@ -100,7 +111,7 @@ The Sales Overview Dashboard provides a comprehensive analysis of Sales data acr
 - Enabled actionable insights for marketing and sales teams, optimizing strategies based on regional performance and YoY comparisons.
 
 #
-# SuperStore-Sales-Performance-and-Trend-Analysis-Dashboard
+# SuperStore Sales Performance and Trend Analysis Dashboard
 **Description**:  
 The SuperStore required a comprehensive dashboard for tracking sales performance across multiple product categories. Built a dynamic, interactive sales dashboard using Power BI, aggregating sales data from multiple sources for real-time analysis. Focused on KPIs such as sales growth, product performance, and regional trends.
 
@@ -110,7 +121,7 @@ The SuperStore required a comprehensive dashboard for tracking sales performance
 - Enhanced operational efficiency and sales forecasting by leveraging data-driven insights.
 
 #
-# Uber-Trip-Analysis
+# Uber Trip Analysis
 **Description**:  
 Uber needed a comprehensive analysis of booking trends, revenue, and trip efficiency to drive data-driven decisions for pricing and customer satisfaction. Developed a Power BI dashboard to analyze KPIs such as total bookings, revenue, trip distance, and duration, providing real-time insights for stakeholders.
 
