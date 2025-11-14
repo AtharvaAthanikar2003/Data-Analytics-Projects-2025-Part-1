@@ -1,6 +1,15 @@
 Hey Everyone, below is a list of Data Analytics projects that I've created and documented here. Descriptions of few projects are not listed as they were based on simple EDA process. 
 Feel free to take a look on it !
 
+# Adidas Sales Data Analysis
+**Description**:  
+Adidas needed a reliable system to forecast sales revenue and understand factors affecting performance. Analyzed historical sales data using Excel and Power BI, building forecasting models and integrating relevant market factors. This provided actionable insights that improved inventory planning, promotional strategies, and overall sales forecasting.
+
+**Key Achievements**:
+- Enhanced the accuracy of sales revenue predictions through improved data modeling and analysis.
+- Increased sales performance by applying key insights to refine sales strategies.
+- Optimized marketing and product strategies by identifying the main factors fueling sales growth.
+
 #
 # Blinkit Sales Revenue Analysis
 **Description**:  
