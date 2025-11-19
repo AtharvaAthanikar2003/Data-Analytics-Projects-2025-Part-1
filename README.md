@@ -51,6 +51,15 @@ Analyzed e-commerce sales data to assess key performance indicators (KPIs) such 
 - Boosted Average Order Value (AOV) and increased conversion rates through targeted marketing insights.
 
 #
+# Ecommerce Sales Dashboard 2
+This project analyzes e-commerce sales data to assess key performance indicators (KPIs) such as sales, profit, quantity, and profit margin. By calculating Year-to-Date (YTD), Year-over-Year (YoY), and Prior Year-to-Date (PYTD) metrics, it identifies trends, seasonality, and product performance across various categories. Visualizations and predictive analytics are integrated to forecast sales and optimize marketing efforts, ultimately driving customer engagement and revenue growth.
+
+## Key Achievements:
+- Calculated YTD, YoY, and PYTD metrics for sales, profits, profit margins, and quantity to evaluate business performance.
+- Identified high-performing products and customer segments to enhance profitability and optimize strategies.
+- Leveraged predictive analytics to forecast sales trends and improve marketing targeting, increasing conversion rates.
+
+#
 # Electric Vehicle Data Analytics for Performance and Market Trends
 **Description**:  
 There was limited data-driven insight into electric vehicle performance and market trends, hindering strategic decisions for manufacturers. Collected and analyzed EV data using Power BI and Excel to assess vehicle performance, user behavior, and market demand trends. Integrated predictive analytics for future performance forecasting.  
