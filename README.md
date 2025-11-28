@@ -148,3 +148,14 @@ Uber needed a comprehensive analysis of booking trends, revenue, and trip effici
 - Enabled increased booking efficiency and improved revenue forecasting through data-driven insights.  
 - Optimized pricing models, leading to a boost in customer satisfaction and overall experience.  
 - Improved sales performance and marketing strategies by identifying key areas for product and customer segmentation optimization.
+
+#
+# USA Bank Data Analysis Dashboard
+**Description**:  
+USA Bank required a comprehensive dashboard for tracking key customer and transaction metrics. Built a dynamic, interactive data analysis dashboard using Power BI, 
+aggregating data from multiple sources for real-time insights. Focused on KPIs such as customer demographics, loan status, transaction trends, and payment behavior.
+
+**Key Achievements**:
+- Enhanced decision-making speed through streamlined data analysis and reporting.  
+- Improved customer segmentation and marketing strategies based on loan status, demographics, and feedback.  
+- Increased operational efficiency by identifying overdue payments and optimizing cash flow management.
