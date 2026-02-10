@@ -21,26 +21,6 @@ Blinkit required a reliable system to accurately forecast sales revenue and asse
 - Enhanced marketing and product strategies by identifying key factors driving sales growth.
 
 #
-# Credit Card Transactions Analysis for Consumer Behavior
-**Description**:  
-The company needed to better understand consumer spending patterns and behaviors from transaction data to drive targeted marketing. Analyzed credit card transaction data using Power BI, AI, and Excel to identify consumer behavior trends, focusing on high-value customers and seasonal spending patterns.
-
-**Key Achievements**:
-- Developed a dynamic dashboard to visualize customer behaviors, sales trends, and demographics, offering a clearer view of business performance.
-- Provided insights into revenue performance by category, age group, and subscription status, enhancing decision-making and business strategy.
-- Identified profitable customer segments and sales patterns, utilizing external factors to improve marketing and product development strategies.
-
-#
-# Customer Shopping Behavior Analysis using SQL, Python and Power BI
-**Description**:  
-The company needed to better understand consumer spending patterns and behaviors from transaction data to drive targeted marketing. Analyzed credit card transaction data using Power BI, AI, and Excel to identify consumer behavior trends, focusing on high-value customers and seasonal spending patterns.
-
-**Key Achievements**:
-- Discovered insights that led to a significant increase in targeted marketing engagement.  
-- Contributed to a rise in customer retention rates through data-driven strategies.  
-- Optimized customer engagement and marketing tactics to drive long-term loyalty and growth.
-
-#
 # Ecommerce Sales Dashboard
 **Description**:  
 Analyzed e-commerce sales data to assess key performance indicators (KPIs) such as amount, profit, quantity, and average order value (AOV). Created visualizations using Power BI to identify trends, seasonality, and product performance across different categories. Integrated predictive analytics to forecast future sales and optimize marketing efforts for better customer engagement and revenue growth.
@@ -54,22 +34,10 @@ Analyzed e-commerce sales data to assess key performance indicators (KPIs) such 
 # Ecommerce Sales Dashboard 2
 This project analyzes e-commerce sales data to assess key performance indicators (KPIs) such as sales, profit, quantity, and profit margin. By calculating Year-to-Date (YTD), Year-over-Year (YoY), and Prior Year-to-Date (PYTD) metrics, it identifies trends, seasonality, and product performance across various categories. Visualizations and predictive analytics are integrated to forecast sales and optimize marketing efforts, ultimately driving customer engagement and revenue growth.
 
-## Key Achievements:
+**Key Achievements**:
 - Calculated YTD, YoY, and PYTD metrics for sales, profits, profit margins, and quantity to evaluate business performance.
 - Identified high-performing products and customer segments to enhance profitability and optimize strategies.
 - Leveraged predictive analytics to forecast sales trends and improve marketing targeting, increasing conversion rates.
-
-#
-# Electric Vehicle Data Analytics for Performance and Market Trends
-**Description**:  
-There was limited data-driven insight into electric vehicle performance and market trends, hindering strategic decisions for manufacturers. Collected and analyzed EV data using Power BI and Excel to assess vehicle performance, user behavior, and market demand trends. Integrated predictive analytics for future performance forecasting.  
-- Download the dataset provided in repository or can take from the given link (recommended in csv format for easy use) - https://catalog.data.gov/dataset/electric-vehicle-population-data
-- Upload the heavy files using this YT reference video :- https://www.youtube.com/watch?v=WIdt-6-x150
-
-**Key Achievements**:  
-- Identified key market trends, leading to improved performance optimization through data visualizations.  
-- Contributed to a reduction in energy consumption by highlighting usage patterns and energy-efficient products using Power BI reports.  
-- Enhanced sales performance and marketing strategies by analyzing key KPIs and optimizing based on insights.
 
 #
 # HR Data Analysis
