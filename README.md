@@ -22,7 +22,6 @@ Blinkit required a reliable system to accurately forecast sales revenue and asse
 
 #
 # Car Sales Data Analysis
-
 **Description**:  
 Marketing teams and car dealerships often struggle with understanding sales trends and performance across various metrics. This analysis aims to solve that problem by examining YTD total sales, average price, cars sold, weekly sales trends, and company-wise sales trends. The insights gained from this analysis provide a clearer picture of sales patterns, helping businesses make more informed decisions for better sales forecasting, pricing strategies, and inventory management.
 
@@ -59,6 +58,28 @@ This project demonstrates the application of data analytics in Human Resources (
 - Developed interactive Power BI dashboards to visualize employee performance, retention, and satisfaction trends.  
 - Identified key factors affecting employee retention and performance through data-driven visualizations.  
 - Enabled HR decision-making with dynamic reports that provide actionable insights into employee satisfaction and turnover.
+
+#
+# IPL Cricket Data Analysis
+**Description**:  
+Analyzed IPL cricket data to identify key performance metrics such as Winning Team and Runner-Up Team, Orange and Purple Cap holders, total 4s, 6s, and team rankings. 
+Used Power BI to build visualizations and forecasting models, providing insights into player performance and team success. 
+This helped optimize player strategies and predict potential winners and top performers.
+
+**Key Achievements**:
+- Identified top run-scorer (Orange Cap) and top wicket-taker (Purple Cap) across seasons.
+- Analyzed total boundaries (4s and 6s) and team rankings to gauge performance trends.
+- Provided actionable insights to enhance player and team strategies based on historical data.
+
+#
+# Marketing Campaign Analysis
+**Description**:  
+Marketing teams often face challenges in understanding the performance of their campaigns across various channels, making it difficult to allocate budgets effectively and optimize strategies. To address this, we used Power BI to analyse the data and calculate the key metrics like ROAS (Return on Ad Spend), total spend, clicks, impressions, CTR (Click-Through Rate), CPM (Cost Per Mille), conversions, and conversion rate were analyzed across different marketing channels. This analysis provided valuable insights into the effectiveness of each channel. The impact of this work was a more data-driven approach to campaign management, allowing for better resource allocation and improved ROI.
+
+**Key Achievements**:  
+- Calculated and assessed ROAS to identify the most profitable campaigns and marketing channels.
+- Analyzed spend, clicks, impressions, CTR, and CPM to optimize marketing budget allocation.
+- Provided insights into campaign performance trends, focusing on revenue, conversions, and marketing channel effectiveness.
 
 #
 # Marketing Data Insights
@@ -107,6 +128,16 @@ The Sales Overview Dashboard provides a comprehensive analysis of Sales data acr
 - Provided a regional analysis of sales data across Central, East, South, and West USA, improving insights into regional performance.
 - Analyzed key KPIs (Sales, Profit, Quantity) and calculated YoY metrics to highlight growth trends and areas for improvement.
 - Enabled actionable insights for marketing and sales teams, optimizing strategies based on regional performance and YoY comparisons.
+
+#
+# Student Performance Analysis Dashboard
+**Description**:  
+This project aims to analyze student performance data to uncover insights into academic achievements across various departments. The problem at hand involves understanding key performance indicators (KPIs) such as the best and worst-performing grades, average scores for passing students, overall passing rates, and student engagement. To tackle this, Power BI was utilized to create interactive visualizations that help identify trends and patterns in the data. The insights derived from the analysis can inform academic strategies and help improve student outcomes. 
+
+**Key Achievements**:  
+- The analysis involved thoroughly identifying both the highest and lowest grades achieved by students across various departments, providing insights into performance disparities and departmental trends.
+- It also included calculating the average score of passing students within each department and assessing the overall department-wise performance.  
+- Additionally, the overall passing rate for each department and across all departments was thoroughly analyzed to uncover any discrepancies or areas needing attention.
 
 #
 # SuperStore Sales Performance and Trend Analysis Dashboard
