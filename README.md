@@ -21,6 +21,17 @@ Blinkit required a reliable system to accurately forecast sales revenue and asse
 - Enhanced marketing and product strategies by identifying key factors driving sales growth.
 
 #
+# Car Sales Data Analysis
+
+**Description**:  
+Marketing teams and car dealerships often struggle with understanding sales trends and performance across various metrics. This analysis aims to solve that problem by examining YTD total sales, average price, cars sold, weekly sales trends, and company-wise sales trends. The insights gained from this analysis provide a clearer picture of sales patterns, helping businesses make more informed decisions for better sales forecasting, pricing strategies, and inventory management.
+
+**Key Achievements**:
+- Analyzed YTD total sales, average price, and cars sold to assess overall sales performance and pricing effectiveness.
+- Identified weekly sales trends to detect seasonal patterns and forecast future sales trends.
+- Compared company-wise sales performance to highlight top-performing car brands and optimize inventory and sales strategies.
+
+#
 # Ecommerce Sales Dashboard
 **Description**:  
 Analyzed e-commerce sales data to assess key performance indicators (KPIs) such as amount, profit, quantity, and average order value (AOV). Created visualizations using Power BI to identify trends, seasonality, and product performance across different categories. Integrated predictive analytics to forecast future sales and optimize marketing efforts for better customer engagement and revenue growth.
@@ -108,17 +119,7 @@ The SuperStore required a comprehensive dashboard for tracking sales performance
 - Enhanced operational efficiency and sales forecasting by leveraging data-driven insights.
 
 #
-# Uber Trip Analysis
-**Description**:  
-Uber needed a comprehensive analysis of booking trends, revenue, and trip efficiency to drive data-driven decisions for pricing and customer satisfaction. Developed a Power BI dashboard to analyze KPIs such as total bookings, revenue, trip distance, and duration, providing real-time insights for stakeholders.
-
-**Key Achievements**:
-- Enabled increased booking efficiency and improved revenue forecasting through data-driven insights.  
-- Optimized pricing models, leading to a boost in customer satisfaction and overall experience.  
-- Improved sales performance and marketing strategies by identifying key areas for product and customer segmentation optimization.
-
-#
-# USA Bank Data Analysis Dashboard
+# USA Bank Data Analysis
 **Description**:  
 USA Bank required a comprehensive dashboard for tracking key customer and transaction metrics. Built a dynamic, interactive data analysis dashboard using Power BI, 
 aggregating data from multiple sources for real-time insights. Focused on KPIs such as customer demographics, loan status, transaction trends, and payment behavior.
@@ -127,3 +128,13 @@ aggregating data from multiple sources for real-time insights. Focused on KPIs s
 - Enhanced decision-making speed through streamlined data analysis and reporting.  
 - Improved customer segmentation and marketing strategies based on loan status, demographics, and feedback.  
 - Increased operational efficiency by identifying overdue payments and optimizing cash flow management.
+
+#
+# Uber Trip Data Insights and Optimization
+**Description**:  
+Uber needed a comprehensive analysis of booking trends, revenue, and trip efficiency to drive data-driven decisions for pricing and customer satisfaction. Developed a Power BI dashboard to analyze KPIs such as total bookings, revenue, trip distance, and duration, providing real-time insights for stakeholders.
+
+**Key Achievements**:
+- Enabled increased booking efficiency and improved revenue forecasting through data-driven insights.  
+- Optimized pricing models, leading to a boost in customer satisfaction and overall experience.
+- Improved sales performance and marketing strategies by identifying key areas for product and customer segmentation optimization.
