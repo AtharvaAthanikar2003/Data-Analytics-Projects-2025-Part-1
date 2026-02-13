@@ -1,4 +1,4 @@
-Hey Everyone, below is a list of Data Analytics projects that I've created and documented here. Descriptions of few projects are not listed as they were based on simple EDA process. 
+Hey Everyone, below is a list of Data Analytics projects that I've created and documented here. Descriptions of few projects are not listed as they were based on simple EDA process.  
 Feel free to take a look on it !
 
 # Adidas Sales Data Analysis
@@ -10,6 +10,9 @@ Adidas needed a reliable system to forecast sales revenue and understand factors
 - Increased sales performance by applying key insights to refine sales strategies.
 - Optimized marketing and product strategies by identifying the main factors fueling sales growth.
 
+**Dashboard Preview**  
+![Adidas US Sales Dashboard](https://github.com/AtharvaAthanikar2003/Data-Analytics-Projects-2025-Part-1/raw/master/Adidas%20US%20Sales%20Data%20Analysis/Adidas%20US%20Sales%20Dashboard.png)
+
 #
 # Blinkit Sales Revenue Analysis
 **Description**:  
@@ -19,6 +22,9 @@ Blinkit required a reliable system to accurately forecast sales revenue and asse
 - Improved sales revenue prediction accuracy through enhanced data modeling and insights.  
 - Increased overall sales by leveraging actionable insights to optimize sales strategies.  
 - Enhanced marketing and product strategies by identifying key factors driving sales growth.
+
+**Dashboard Preview**  
+![Blinkit Sales Dashboard](https://github.com/AtharvaAthanikar2003/Data-Analytics-Projects-2025-Part-1/raw/master/Blinkit%20Sales%20Revenue%20Analysis/Blinkit%20Sales%20Dashboard.png)
 
 #
 # Car Sales Data Analysis
@@ -30,6 +36,10 @@ Marketing teams and car dealerships often struggle with understanding sales tren
 - Identified weekly sales trends to detect seasonal patterns and forecast future sales trends.
 - Compared company-wise sales performance to highlight top-performing car brands and optimize inventory and sales strategies.
 
+**Dashboard Preview**  
+![Car Sales Dashboard](https://github.com/AtharvaAthanikar2003/Data-Analytics-Projects-2025-Part-1/raw/master/Car%20Sales%20Data%20Analysis/Car%20Sales%20Dashboard.png)  
+![Car Sales Details](https://github.com/AtharvaAthanikar2003/Data-Analytics-Projects-2025-Part-1/raw/master/Car%20Sales%20Data%20Analysis/Car%20Sales%20Details.png)
+
 #
 # Ecommerce Sales Dashboard
 **Description**:  
@@ -40,6 +50,10 @@ Analyzed e-commerce sales data to assess key performance indicators (KPIs) such 
 - Enhanced profit margins by identifying high-performing products and customer segments.  
 - Boosted Average Order Value (AOV) and increased conversion rates through targeted marketing insights.
 
+**Dashboard Preview**  
+![Ecommerce Sales Dashboard](https://github.com/AtharvaAthanikar2003/Data-Analytics-Projects-2025-Part-1/raw/master/Ecommerce%20Sales%20Dashboard/Ecommerce%20Sales%20Dashboard.png)  
+![Ecommerce Sales Dashboard 2](https://github.com/AtharvaAthanikar2003/Data-Analytics-Projects-2025-Part-1/raw/master/Ecommerce%20Sales%20Dashboard%202/Ecommerce%20Sales%20Dashboard%202.png)
+
 #
 # Ecommerce Sales Dashboard 2
 This project analyzes e-commerce sales data to assess key performance indicators (KPIs) such as sales, profit, quantity, and profit margin. By calculating Year-to-Date (YTD), Year-over-Year (YoY), and Prior Year-to-Date (PYTD) metrics, it identifies trends, seasonality, and product performance across various categories. Visualizations and predictive analytics are integrated to forecast sales and optimize marketing efforts, ultimately driving customer engagement and revenue growth.
@@ -48,6 +62,10 @@ This project analyzes e-commerce sales data to assess key performance indicators
 - Calculated YTD, YoY, and PYTD metrics for sales, profits, profit margins, and quantity to evaluate business performance.
 - Identified high-performing products and customer segments to enhance profitability and optimize strategies.
 - Leveraged predictive analytics to forecast sales trends and improve marketing targeting, increasing conversion rates.
+
+**Dashboard Preview**  
+![Ecommerce Sales Dashboard](https://github.com/AtharvaAthanikar2003/Data-Analytics-Projects-2025-Part-1/raw/master/Ecommerce%20Sales%20Dashboard/Ecommerce%20Sales%20Dashboard.png)  
+![Ecommerce Sales Dashboard 2](https://github.com/AtharvaAthanikar2003/Data-Analytics-Projects-2025-Part-1/raw/master/Ecommerce%20Sales%20Dashboard%202/Ecommerce%20Sales%20Dashboard%202.png)
 
 #
 # HR Data Analysis
@@ -59,17 +77,23 @@ This project demonstrates the application of data analytics in Human Resources (
 - Identified key factors affecting employee retention and performance through data-driven visualizations.  
 - Enabled HR decision-making with dynamic reports that provide actionable insights into employee satisfaction and turnover.
 
+**Dashboard Preview**  
+![HR Data Analysis](https://github.com/AtharvaAthanikar2003/Data-Analytics-Projects-2025-Part-1/raw/master/HR%20Data%20Analysis/HR%20Data%20Analysis.png)
+
 #
 # IPL Cricket Data Analysis
 **Description**:  
-Analyzed IPL cricket data to identify key performance metrics such as Winning Team and Runner-Up Team, Orange and Purple Cap holders, total 4s, 6s, and team rankings. 
-Used Power BI to build visualizations and forecasting models, providing insights into player performance and team success. 
+Analyzed IPL cricket data to identify key performance metrics such as Winning Team and Runner-Up Team, Orange and Purple Cap holders, total 4s, 6s, and team rankings.  
+Used Power BI to build visualizations and forecasting models, providing insights into player performance and team success.  
 This helped optimize player strategies and predict potential winners and top performers.
 
 **Key Achievements**:
 - Identified top run-scorer (Orange Cap) and top wicket-taker (Purple Cap) across seasons.
 - Analyzed total boundaries (4s and 6s) and team rankings to gauge performance trends.
 - Provided actionable insights to enhance player and team strategies based on historical data.
+
+**Dashboard Preview**  
+![IPL Cricket Data Analysis](https://github.com/AtharvaAthanikar2003/Data-Analytics-Projects-2025-Part-1/raw/master/IPL%20Cricket%20Data%20Analysis/IPL%20Cricket%20Data%20Analysis.png)
 
 #
 # Marketing Campaign Analysis
@@ -81,6 +105,10 @@ Marketing teams often face challenges in understanding the performance of their 
 - Analyzed spend, clicks, impressions, CTR, and CPM to optimize marketing budget allocation.
 - Provided insights into campaign performance trends, focusing on revenue, conversions, and marketing channel effectiveness.
 
+**Dashboard Preview**  
+![Marketing Campaign Analysis Dashboard](https://github.com/AtharvaAthanikar2003/Data-Analytics-Projects-2025-Part-1/raw/master/Marketing%20Campaign%20Analysis%20Dashboard/Marketing%20Campaign%20Analysis%20Dashboard.png)  
+![Marketing Data Insights](https://github.com/AtharvaAthanikar2003/Data-Analytics-Projects-2025-Part-1/raw/master/Marketing%20Data%20Insights/Marketing%20Data%20Analysis.png)
+
 #
 # Marketing Data Insights
 **Description**:  
@@ -90,6 +118,9 @@ Analyzed marketing campaign performance to identify areas for optimizing spend, 
 - Reduced overall spending through data-driven insights and campaign optimizations.  
 - Increased campaign return on investment (ROI) by optimizing marketing efforts based on performance analytics.  
 - Improved sales performance by identifying key areas for optimization across products and customer segments.
+
+**Dashboard Preview**  
+![Marketing Data Insights](https://github.com/AtharvaAthanikar2003/Data-Analytics-Projects-2025-Part-1/raw/master/Marketing%20Data%20Insights/Marketing%20Data%20Analysis.png)
 
 #
 # Meta Ad Performance Dashboard
@@ -101,23 +132,8 @@ Created a comprehensive dashboard to analyze Meta (Facebook and Instagram) adver
 - Delivered actionable insights that enhanced engagement rate, CTR, and conversion rate through refined targeting strategies and creative optimization.  
 - Developed intuitive, data-driven visual reports that simplified complex performance data, enabling stakeholders to make informed, strategic decisions.
 
-## Key Metrics Analyzed:
-- **Impressions**: Total number of times ads were displayed.
-- **Clicks**: Number of times users clicked on the ads.
-- **Shares**: Number of times users shared the ads.
-- **Comments**: Engagement in the form of user comments.
-- **Purchases**: Number of completed transactions resulting from ad interactions.
-- **Engagements**: The total number of interactions including clicks, shares, and comments.
-- **Click-through Rate (CTR)**: Percentage of people who clicked the ad after viewing it.
-- **Engagement Rate**: Percentage of people who engaged with the ad (like, share, comment, click) relative to the number of impressions.
-- **Conversion Rate**: Percentage of users who completed a desired action (such as a purchase) after clicking the ad.
-- **Purchase Rate**: Percentage of users who made a purchase after engaging with the ad.
-- **Total Budget**: Total amount spent across all campaigns.
-- **Average Budget per Campaign**: Average spend per individual campaign across Facebook and Instagram.
-
-## Tools and Technologies Used:
-- **Power BI**: Used to create the interactive dashboard for visualizing ad performance data.
-- **Excel**: Data processing and initial analysis of raw campaign data.
+**Dashboard Preview**  
+![Meta Ad Performance Dashboard](https://github.com/AtharvaAthanikar2003/Data-Analytics-Projects-2025-Part-1/raw/master/Meta%20Ad%20Performance%20Dashboard/Meta%20Ad%20Performance%20Dashboard.png)
 
 #
 # Sales Performance Dashboard Development and Analysis
@@ -129,6 +145,9 @@ The Sales Overview Dashboard provides a comprehensive analysis of Sales data acr
 - Analyzed key KPIs (Sales, Profit, Quantity) and calculated YoY metrics to highlight growth trends and areas for improvement.
 - Enabled actionable insights for marketing and sales teams, optimizing strategies based on regional performance and YoY comparisons.
 
+**Dashboard Preview**  
+![Sales Performance Development and Analysis](https://github.com/AtharvaAthanikar2003/Data-Analytics-Projects-2025-Part-1/raw/master/Sales%20Performance%20Dashboard%20Development%20and%20Analysis/Sales%20Performance%20Development%20and%20Analysis.png)
+
 #
 # Student Performance Analysis Dashboard
 **Description**:  
@@ -138,6 +157,9 @@ This project aims to analyze student performance data to uncover insights into a
 - The analysis involved thoroughly identifying both the highest and lowest grades achieved by students across various departments, providing insights into performance disparities and departmental trends.
 - It also included calculating the average score of passing students within each department and assessing the overall department-wise performance.  
 - Additionally, the overall passing rate for each department and across all departments was thoroughly analyzed to uncover any discrepancies or areas needing attention.
+
+**Dashboard Preview**  
+![Student Performance Analysis Dashboard](https://github.com/AtharvaAthanikar2003/Data-Analytics-Projects-2025-Part-1/raw/master/Student%20Performance%20Analysis%20Dashboard/Student%20Performance%20Analysis%20Dashboard.png)
 
 #
 # SuperStore Sales Performance and Trend Analysis Dashboard
@@ -149,16 +171,23 @@ The SuperStore required a comprehensive dashboard for tracking sales performance
 - Improved sales strategy adjustments, leading to higher monthly sales performance.  
 - Enhanced operational efficiency and sales forecasting by leveraging data-driven insights.
 
+**Dashboard Preview**  
+![SuperStore Sales Dashboard](https://github.com/AtharvaAthanikar2003/Data-Analytics-Projects-2025-Part-1/raw/master/SuperStore%20Sales%20Performance%20and%20Trend%20Analysis%20Dashboard/SuperStore%20Sales%20Dashboard.png)
+
 #
 # USA Bank Data Analysis
 **Description**:  
-USA Bank required a comprehensive dashboard for tracking key customer and transaction metrics. Built a dynamic, interactive data analysis dashboard using Power BI, 
+USA Bank required a comprehensive dashboard for tracking key customer and transaction metrics. Built a dynamic, interactive data analysis dashboard using Power BI,  
 aggregating data from multiple sources for real-time insights. Focused on KPIs such as customer demographics, loan status, transaction trends, and payment behavior.
 
 **Key Achievements**:
 - Enhanced decision-making speed through streamlined data analysis and reporting.  
 - Improved customer segmentation and marketing strategies based on loan status, demographics, and feedback.  
 - Increased operational efficiency by identifying overdue payments and optimizing cash flow management.
+
+**Dashboard Preview**  
+![USA Bank Customer Data Analysis](https://github.com/AtharvaAthanikar2003/Data-Analytics-Projects-2025-Part-1/raw/master/USA%20Bank%20Data%20Analysis/USA%20Bank%20Customer%20Data%20Analysis.png)  
+![USA Bank Payments Data Analysis](https://github.com/AtharvaAthanikar2003/Data-Analytics-Projects-2025-Part-1/raw/master/USA%20Bank%20Data%20Analysis/USA%20Bank%20Payments%20Data%20Analysis.png)
 
 #
 # Uber Trip Data Insights and Optimization
@@ -169,3 +198,8 @@ Uber needed a comprehensive analysis of booking trends, revenue, and trip effici
 - Enabled increased booking efficiency and improved revenue forecasting through data-driven insights.  
 - Optimized pricing models, leading to a boost in customer satisfaction and overall experience.
 - Improved sales performance and marketing strategies by identifying key areas for product and customer segmentation optimization.
+
+**Dashboard Preview**  
+![Uber Trip Overview Analysis Dashboard](https://github.com/AtharvaAthanikar2003/Data-Analytics-Projects-2025-Part-1/raw/master/Uber%20Trip%20Data%20Insights%20and%20Optimization/Uber%20Trip%20Overview%20Analysis%20Dashboard.png)  
+![Uber Trip Time Analysis](https://github.com/AtharvaAthanikar2003/Data-Analytics-Projects-2025-Part-1/raw/master/Uber%20Trip%20Data%20Insights%20and%20Optimization/Uber%20Trip%20Time%20Analysis.png)  
+![Uber Trip Details](https://github.com/AtharvaAthanikar2003/Data-Analytics-Projects-2025-Part-1/raw/master/Uber%20Trip%20Data%20Insights%20and%20Optimization/Uber%20Trip%20Details.png)
